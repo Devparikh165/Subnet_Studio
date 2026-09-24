@@ -1,0 +1,6 @@
+{
+  "name": "Subnet Studio",
+  "description": "Advanced CIDR calculator with visual binary breakdowns, CLI playbooks, and subnet overlap detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
